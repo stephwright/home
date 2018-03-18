@@ -2,7 +2,7 @@
 * apple
 * plum
 * cherry
-* apricot
+* apricot - scratched, doesn't do well in WW
 * Asian pear
 
 ## Stipulations
