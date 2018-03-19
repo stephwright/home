@@ -9,6 +9,4 @@ This repo is an example of how it can be used to track information for the home.
 
 Others will be added as I think of them.
 
-Feel free to explore... you can't break it.
-
-https://github.com/stephwright/home/tree/master/maint
+Feel free to explore... you can't break it... and WELCOME! :tada:
