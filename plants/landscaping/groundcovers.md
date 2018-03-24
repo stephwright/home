@@ -18,4 +18,9 @@ Thrives in shade, exudes a minty smell when trod upon, and is edible.
 Dutch clover is a familiar face in meadows and lawns and actually makes a terrific lawn replacement. The deep green plants withstand normal foot traffic, but aren’t an ideal choice for a heavy traffic area, like a play area beneath a swing set. The small plants boast heat and drought tolerance and stand up to repeated mowing with ease. Newly developed micro-clovers are smaller and designed to blend in with turf grasses better. Dutch clover is hardy in Zones 3 to 9 and isn’t damaged by dog urine. Plants flower heaviest during a small window, but frequent mowing can keep flowers in check.
 
 **Blue Star Creeper (Laurentia fluviatilis)**  
-Has tiny green foliage, bear up to heavy foot traffic.
+~~Has tiny green foliage, bear up to heavy foot traffic.~~ invasive!
+
+**Birds Foot Trevoil**
+**Irish Moss**
+**Green Carpet Rupturewort (Herniaria glabra)**
+**Elfin Thyme**
